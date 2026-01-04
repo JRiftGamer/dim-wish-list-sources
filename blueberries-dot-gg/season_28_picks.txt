@@ -1,5 +1,23 @@
-title:Blueberries.gg's collected / tiered S28 (Renegades) weapon picks
-description:Sources: https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/ https://www.blueberries.gg/weapons/destiny-2-weapons-list/
+title:Blueberries.gg's S28 (Renegades) weapon picks
+description:S28 (Renegades) collected/tiered weapon picks from https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons and https://www.blueberries.gg/weapons/destiny-2-weapons-list
+
+// All or Nothing - GodPvE (god-pve,pve)
+//notes: All or Nothing has great utility in PvE and can be a real workhorse when taking on large groups of enemies efficiently. This god roll taps into that potential to take the fight to the enemy and quickly take them out in tandem with a strong Guardian build. Pick this roll up with Fluted Barrel to boost the quite low base Handling, and then combine with Light Heatsink in the Battery for a further +10 to Handling and Reload Speed. The main perks here work incredibly well together in Firefly and Thermal Atomization. Precision kills with Firefly cause a damaging explosion to the surrounding enemies and help Reload Speed reach its maximum. Thermal Atomization then finishes off, adding a damage boost after hitting a high heat, which helps with tankier enemies, as they require more shots. Heating the weapon then ends in a high-damage explosion when the foe is defeated.  tags:god-pve,pve
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,3590359704
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,3244229373
+
+
+// All or Nothing - GodPvP (god-pvp,pvp)
+//notes: 540 RPMs were a menace in The Crucible many seasons ago, and All or Nothing does a great job at bringing them back into the conversation. Their fast-firing nature allows them to quickly dip in and out of engagements effectively before opponents can even react.  Start with Arrowhead Brake to tighten up the wide Recoil pattern and then add Tactical Heatsink to the Battery for its sweeping boosts to essential stats in Range, Stability, and Reload Speed. Tie this together first with Keep Away. The key elements are the increases to Range and Accuracy, which will easily take opponents by surprise at how effective this weapon will be at range, paired with accurate and frequent burst fire. Finish off with Headseeker, which pairs perfectly with a Pulse Rifle; its burst fire nature helps enhance any part of the burst that lands south of a precision shot, making follow-up shots more effective in battle. Source: potential drop throughout the Renegades campaign missions and from its reward chests upon completing the missions and sidequests offered through the Tharsis Outpost. After making progress with the local factions following campaign progression, All or Nothing will be focusable for multiple rolls. (masterwork:Range or masterwork:Handling) tags:god-pvp,pvp
+dimwishlist:item=3984776322&perks=839105230,769709866,3619207468,460017080,1309453587
+
+
+// All or Nothing - PvP (pvp)
+//notes: 540 RPMs were a menace in The Crucible many seasons ago, and All or Nothing does a great job at bringing them back into the conversation. Their fast-firing nature allows them to quickly dip in and out of engagements effectively before opponents can even react.  Start with Arrowhead Brake to tighten up the wide Recoil pattern and then add Tactical Heatsink to the Battery for its sweeping boosts to essential stats in Range, Stability, and Reload Speed. Most wants Range and Accuracy. Source: potential drop throughout the Renegades campaign missions and from its reward chests upon completing the missions and sidequests offered through the Tharsis Outpost. After making progress with the local factions following campaign progression, All or Nothing will be focusable for multiple rolls. (masterwork:Range or masterwork:Handling) tags:pvp
+dimwishlist:item=3984776322&perks=839105230,769709866,3619207468,460017080,1309453587
+dimwishlist:item=3984776322&perks=839105230,769709866,3619207468,1015611457,1309453587
+dimwishlist:item=3984776322&perks=839105230,769709866,2387244414,460017080,1309453587
+dimwishlist:item=3984776322&perks=839105230,769709866,2387244414,1015611457,1309453587
 
 
 // Motif-41 - PvE (pve,god-pve)
