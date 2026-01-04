@@ -1,0 +1,71 @@
+title:Blueberries.gg's collected / tiered S28 (Renegades) weapon picks
+description:Sources: https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/ https://www.blueberries.gg/weapons/destiny-2-weapons-list/
+
+
+// Motif-41 - PvE (pve,god-pve)
+//notes: As Motif-41 is a Special weapon, you are going to want to realistically maximise the quality of life and feel of the weapon, so Handling and Reload Speed are ideal; therefore, Quick Launch and High-Velocity Rounds are the best picks here. For perks, Auto-Loading Holster is the go-to for the first column; it is simply too easy to use and straightforward to deny. However, Wellspring is a valid alternative, and Heal Clip is an interesting option too. For perk 2, we suggest Incandescent or Attrition Orbs as they provide the most utility, but Master of Arms is nice for general damage. Recommended MW: Handling. tags:#pve:s,#pve:god,#pvp:d. Alternatives: Festival Flight, Lost Signal, VS Velocity Baton
+dimwishlist:item=1685533876&perks=3525010810,2822142346,3300816228,4293542123
+dimwishlist:item=1685533876&perks=3525010810,2822142346,3300816228,243981275
+dimwishlist:item=1685533876&perks=3525010810,2822142346,3300816228,3081867624
+dimwishlist:item=1685533876&perks=3525010810,2822142346,3592538738,4293542123
+dimwishlist:item=1685533876&perks=3525010810,2822142346,3592538738,243981275
+dimwishlist:item=1685533876&perks=3525010810,2822142346,3592538738,3081867624
+dimwishlist:item=1685533876&perks=3525010810,2822142346,3017780555,4293542123
+dimwishlist:item=1685533876&perks=3525010810,2822142346,3017780555,243981275
+dimwishlist:item=1685533876&perks=3525010810,2822142346,3017780555,3081867624
+
+// Praxic Blade - PvE (god-pve,pve)
+//notes:(PvE): S-Tier (Best).|tags:god-pve,pve
+dimwishlist:item=3049715579&perks=
+
+
+// Uncivil Discourse - PvE (god-pve,pve)
+//notes: Uncivil Discourse is an excellent entry into this new weapon type. Hits hard with a generous magazine size, this weapon will do the work in all levels of content. Hunter: Lucky Pants + Precision Instrument + Tier 5 Holofoil origin trait Accelerated Assault produces incredible damage numbers. Start with Fluted Barrel and Ionized Heatsink, which pushes Handling to near max for a light and snappy feel when switching to this weapon, and the Battery will reduce heat generated, allowing more shots to be fired before an overheat. For the main perks, Air Trigger fits nicely in the first slot, mainly for its added boost to Reload Speed. Just remember to do a little jump to ensures you get the best out of it. Finish off with Precision Instrument, which rewards an accurate hand by adding a damage bonus for each shot on target. Be careful, as missing will reset the buff. Maxes out at 25% and keeps rolling until a shot is missed or you need to reload, so this buff can last a sizeable amount of time and take massive chunks off your enemies.  MW: Cooling Efficiency. tags:#pve:s,#pve:god. Alternatives: Modified B-7 Pistol, Posterity, Sightline Survey.
+dimwishlist:item=3146657389&perks=1840239774,807993149,1421772400,555281244
+dimwishlist:item=3146657389&perks=1840239774,807993149,1421772400,4104185692
+dimwishlist:item=3146657389&perks=1840239774,807993149,3932949589,555281244
+dimwishlist:item=3146657389&perks=1840239774,807993149,3932949589,4104185692
+
+
+// Uncivil Discourse - PvP (pvp,god-pvp)
+//notes: Uncivil Discourse is definitely set up to do well in The Crucible, and with its strong base perks, this god roll enhances it to a competitive level. Arrowhead Brake is the best choice to narrow the Recoil, help keep shots on target, and we can then add Projection Fuse, which further pushes out the Range, making Uncivil Discourse deadly down longer sight-lines. Keep Away helps tie everything together as Uncivil Discourse will do its best work at Range and by being away from opponents, its enhancements to Range, Accuracy and Reload Speed make it the top choice in this slot. Finish off with Precision Instrument for how it can easily stack up its damage buff to 25%, rewarding a precise hand in the arena. Balance this with the heat management of these blaster-type weapons, and you could find yourself with a new favourite Hand Cannon. Recommended MW: Range. tags:#pvp:s,#pvp:god. Alternatives: Modified B-7 Pistol, Posterity, Sightline Survey.
+dimwishlist:item=3146657389&perks=839105230,2969185026,3619207468,555281244
+dimwishlist:item=3146657389&perks=839105230,2969185026,3619207468,47981717
+
+
+// Peculiar Charm - PvE (god-pve,pve)
+//notes: Peculiar Charm can be used pretty similarly both in neutral gameplay and with Peacekeepers, and has the benefit of a pretty large magazine size naturally. That said, stability is great for quality of life, ensuring you hit every shot to trigger Kinetic Tremors easily. Smallbore provides great numbers with some stability, and Extended Mag makes our magazine size massive. In the first perk column, Shoot to Loot is the general go-to for Season of the Lawless and beyond. Attrition Orbs is also great, but Shoot to Loot combines with Kinetic Synthesis and Kinetic Tremors to be able to essentially provide huge amounts of uptime in both neutral and mag-dump scenarios. Kinetic Tremors is a great perk in any scenario, too, and is the best element-specific PvE damage perk that Kinetic weapons have available to them currently. It’s a no-brainer; Firefly is a potent splash perk but feels way less consistent with the other column, and none of the other perks really feel relevant enough to consider. Recommended MW: Stability. tags:#pve:s,#pve:god. Alternatives: Antedate, M-17 Fast Talker, Multimach CCX.
+dimwishlist:item=3620277039&perks=1482024992,2420895100,3700496672,3891536761
+dimwishlist:item=3620277039&perks=1482024992,2420895100,243981275,3891536761
+
+
+// Peculiar Charm - PvP (pvp,god-pvp)
+//notes: Peculiar Charm is incredibly accurate and comfortable to use in the Crucible, with its biggest shortcoming being range. So, we want to max out our range as much as possible, with the usual smallbore for great numbers (and extra stability, which is always nice). The first perk column has both Rangefinder and Lone Wolf, but Rangefinder is far better here as it further increases effective range, as well as providing aim-assist, making the gun feel even better to use all-around. Headseeker is a no-brainer in the second perk column; it allows you to shred heads and decreases time-to-kill massively. With this, there are no other really good PvP perks in the second column, but Headseeker is so good that nobody’s complaining anyway. Recommended MW: Range. tags:#pve:s,#pve:god. Alternatives: Antedate, M-17 Fast Talker, Multimach CCX.
+dimwishlist:item=3620277039&perks=
+
+
+// Refurbished A499 - PvE (pve,god-pve)
+//notes: Released with the Renegades DLC, the Refurbished A499 is a legendary heavy Kinetic Disruption Sniper Rifle that can be farmed by participating in Renegades Destination activities. For fast swap-DPS rotation, maximize Handling; for sustained DPS maximize Reload Speed. MW: Handling or Reload Speed. tags:#pve:s,#pve:god. Alternatives: Izanagi's Burden, Succession (Brave).
+dimwishlist:item=3661051060&perks=839105230,3230963543,957782887,3764420437
+
+
+// Refurbished A499 - PvP (pvp,god-pvp)
+//notes: In PvP, we really want to focus on quality of life. The Range is already there, as the Refurbished A499 is generally a one-shot kill at most effective ranges, so balancing out the downsides of using the weapon is the real focus. With this, balancing out Handling and Stability is important, and so our choices do reflect that. Snapshot Sights provides extra quality of life due to both feeling nicer and also providing an extra 5 points in stability, whereas Lone Wolf is decent if you’re not confident in hitting your shots. In the second column, there isn’t much, so Mulligan is the only really relevant pick, as it can sometimes refund your ammo if you miss. This is relevant as the sniper requires Heavy ammo, and so it can be helpful sometimes. Recommended MW: Handling. tags:#pvp:b,#pvp:god. Alternatives: Izanagi's Burden, Succession (Brave).
+dimwishlist:item=3661051060&perks=1840239774,3177308360,957782887,3513791699
+dimwishlist:item=3661051060&perks=1840239774,3177308360,2579169598,3513791699
+
+
+// Mos Athanor IV - PvP (god-pvp,pvp)
+//notes: Released with the Renegades DLC, Mos Athanor IV is a Void element icon Void Aggressive Hand cannon that can be farmed by participating in Renegades Destination activities. Having access to enhanced perks and a godly spread of stats all around, Mos Athanor IV is the hand cannon you need for the Crucible." Even with Smallbore over Hammer-Forged Rifling, you’ll have crazy range, and Ricochet Rounds add to this. The most important thing, though, is getting range above 80 and getting stability above 60 — anything more is just even better. In the first perk column, there’s Lone Wolf and Slideways. Lone Wolf is probably the better roll for most people (to pair with Precision Instrument), as it just makes the weapon far snappier and will help you get precision shots all around. But Slideways is also just gas, providing even more stats and the free reload. The second perk column has a couple of perks of interest, but Precision Instrument is the immediate pick here. It turns it into a consistent weapon all-around, especially if you’re less confident about your PvP skills. If you want to get better at PvP, this is the roll to take. The Adagio roll (with Slideways) is really tasty, and is definitely the more popular roll, but is only worth it if you’re going to be consistently getting Adagio online. There’s no harm in making sure you have one of each for when you do feel confident, though! Recommended MW: Range. tags:#pvp:s,#pvp:god. Alternatives: Exalted Truth, Igneous Hammer, Something New.
+dimwishlist:item=4118334987&perks=1482024992,1885400500,2579169598,555281244
+dimwishlist:item=4118334987&perks=1482024992,1885400500,2579169598,3673922083
+dimwishlist:item=4118334987&perks=1482024992,1885400500,2039302152,555281244
+dimwishlist:item=4118334987&perks=1482024992,1885400500,2039302152,3673922083
+
+
+// Mos Athanor IV - PvE (pve,god-pve)
+//notes: Released with the Renegades DLC, Mos Athanor IV is a Void element icon Void Aggressive Hand cannon that can be farmed by participating in Renegades Destination activities. In PvE, Mos Athanor IV is a general ad-slaying weapon, and so we’re mainly looking for quality-of-life here. Fluted Barrel and Ricochet Rounds provide this in spades, but generally, you want to make sure your stats are as balanced as possible; use your mods accordingly. The roll is also fairly simple, with Destabilising Rounds in perk column one and Demoralize in perk column two. Most of this weapon’s perks are PvP-oriented, and so there’s not a lot to discuss here — the two splash perks are definitely worth taking over anything else. Recommended MW: Stability. tags:#pve:b,#pve:god. Alternatives: Exalted Truth, Igneous Hammer, Something New.
+dimwishlist:item=4118334987&perks=1840239774,1885400500,2048641572,1464081238
+dimwishlist:item=4118334987&perks=1840239774,1885400500,2048641572,2813913866
+dimwishlist:item=4118334987&perks=1840239774,1885400500,1926441324,1464081238
+dimwishlist:item=4118334987&perks=1840239774,1885400500,1926441324,2813913866
