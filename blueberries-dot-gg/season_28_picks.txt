@@ -3,8 +3,8 @@ description:S28 (Renegades) collected/tiered weapon picks from https://www.blueb
 
 // All or Nothing - GodPvE (god-pve,pve)
 //notes: All or Nothing has great utility in PvE and can be a real workhorse when taking on large groups of enemies efficiently. This god roll taps into that potential to take the fight to the enemy and quickly take them out in tandem with a strong Guardian build. Pick this roll up with Fluted Barrel to boost the quite low base Handling, and then combine with Light Heatsink in the Battery for a further +10 to Handling and Reload Speed. The main perks here work incredibly well together in Firefly and Thermal Atomization. Precision kills with Firefly cause a damaging explosion to the surrounding enemies and help Reload Speed reach its maximum. Thermal Atomization then finishes off, adding a damage boost after hitting a high heat, which helps with tankier enemies, as they require more shots. Heating the weapon then ends in a high-damage explosion when the foe is defeated.  tags:god-pve,pve
-dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,3590359704
-dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,3244229373
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,1909124648,1309453587
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,960997401,1309453587
 
 
 // All or Nothing - GodPvP (god-pvp,pvp)
