@@ -61,7 +61,7 @@ dimwishlist:item=2659286158&perks=1840239774,807993149,2048641572,2109543898
 
 
 // Compact Defender - Compact Defender (PvP) Best (god-pvp,pvp)
-//notes: (PvE)(Tier:B)(MW:Range) Best. Perk 1: Rangefinder (+10 range on ADS). Perk 2: Kill Clip (buff damage on reload after kill) or Desperate Measures (buff damage on Weapon kill, larger buff on Grenade/Melee kill). Smallbore and Particle Repeater for Range and Stability. tags:god-pvp,pvp
+//notes: (PvP)(Tier:B)(MW:Range) Best. Perk 1: Rangefinder (+10 range on ADS). Perk 2: Kill Clip (buff damage on reload after kill) or Desperate Measures (buff damage on Weapon kill, larger buff on Grenade/Melee kill). Smallbore and Particle Repeater for Range and Stability. tags:god-pvp,pvp
 dimwishlist:item=2659286158&perks=1482024992,3868766766,2846385770,1015611457
 dimwishlist:item=2659286158&perks=1482024992,3868766766,2846385770,2109543898
 
@@ -127,7 +127,7 @@ dimwishlist:item=2659286158&perks=1482024992,1092016998,2048641572,2109543898
 
 
 // Compact Defender - Compact Defender (PvP) Good (god-pvp,pvp)
-//notes: (PvE)(Tier:B)(MW:Range) Good. Perk 1: Rangefinder (+10 range and zoom on ADS for tighter shot group further out). Alternatively Delicate Tuning (+22 range on ADS below 50% heat, +11 above) if you can pace your shots to stay below 50% heat. Perk 2: Kill Clip (buff damage on reload after kill) or Desperate Measures (buff damage on Weapon kill, larger buff on Grenade/Melee kill). Alternatively Precision Instrument is a good choice but PvP  effectiveness varies widely. Smallbore and Particle Repeater alternatives for Range and Stability. tags:god-pvp,pvp
+//notes: (PvP)(Tier:B)(MW:Range) Good. Perk 1: Rangefinder (+10 range and zoom on ADS for tighter shot group further out). Alternatively Delicate Tuning (+22 range on ADS below 50% heat, +11 above) if you can pace your shots to stay below 50% heat. Perk 2: Kill Clip (buff damage on reload after kill) or Desperate Measures (buff damage on Weapon kill, larger buff on Grenade/Melee kill). Alternatively Precision Instrument is a good choice but PvP  effectiveness varies widely. Smallbore and Particle Repeater alternatives for Range and Stability. tags:god-pvp,pvp
 dimwishlist:item=2659286158&perks=1482024992,3868766766,2846385770,1015611457
 dimwishlist:item=2659286158&perks=1482024992,3868766766,2846385770,2109543898
 dimwishlist:item=2659286158&perks=1482024992,3868766766,2846385770,555281244
