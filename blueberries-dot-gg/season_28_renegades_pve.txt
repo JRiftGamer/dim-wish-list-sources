@@ -1,0 +1,181 @@
+title:Blueberries.gg's Y8 (2025) S28 (Renegades) weapon picks (PVE)
+description:Y8 (2025) S28 (Renegades) Dawning collected/tiered weapon picks from https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons and https://www.blueberries.gg/weapons/destiny-2-weapons-list
+
+// All or Nothing - All or Nothing (PvE)(Such Best) (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Such Best. Unique version which can roll origin trait Accelerated Assault. Best for large groups of enemies. Best perks: Firefly (precision kills trigger explosion and nearly maxes out Reload Speed) with Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Best barrel/mag: Fluted Barrel (boost low base Handling) and Light Heatsink (more Handling plus Reload Speed). Best origin trait: Accelerated Assault (sustained damage slightly improves damage and reduces heat generation). tags:god-pve,pve
+dimwishlist:item=2023002233&perks=1840239774,1946186791,3824105627,1909124648,3713579091
+
+
+// All or Nothing - All or Nothing (PvE)(Best) (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Best. Unique version which can roll origin trait Accelerated Assault. Best for large groups of enemies. Best perks: Firefly (precision kills trigger explosion and nearly maxes out Reload Speed) with Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Best barrel/mag: Fluted Barrel (boost low base Handling) and Light Heatsink (more Handling plus Reload Speed). tags:god-pve,pve
+dimwishlist:item=2023002233&perks=1840239774,1946186791,3824105627,1909124648
+
+
+// All or Nothing - All or Nothing (PvE)(Good) (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Good. Recommended MW: Handling. Unique version which can roll origin trait Accelerated Assault. Best for large groups of enemies. Best perks: Firefly (precision kills trigger explosion and nearly maxes out Reload Speed) with Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Alternatively Sever (debuff target's damage and spawn Tangle on kill). Barrel/mag: prioritizing Handling and/or Reload Speed. tags:god-pve,pve
+dimwishlist:item=2023002233&perks=1840239774,1946186791,3824105627,1909124648
+dimwishlist:item=2023002233&perks=1840239774,1946186791,3824105627,960997401
+dimwishlist:item=2023002233&perks=1840239774,769709866,3824105627,1909124648
+dimwishlist:item=2023002233&perks=1840239774,769709866,3824105627,960997401
+dimwishlist:item=2023002233&perks=1840239774,1806718225,3824105627,1909124648
+dimwishlist:item=2023002233&perks=1840239774,1806718225,3824105627,960997401
+dimwishlist:item=2023002233&perks=1840239774,1080094173,3824105627,1909124648
+dimwishlist:item=2023002233&perks=1840239774,1080094173,3824105627,960997401
+dimwishlist:item=2023002233&perks=4090651448,1946186791,3824105627,1909124648
+dimwishlist:item=2023002233&perks=4090651448,1946186791,3824105627,960997401
+dimwishlist:item=2023002233&perks=4090651448,769709866,3824105627,1909124648
+dimwishlist:item=2023002233&perks=4090651448,769709866,3824105627,960997401
+dimwishlist:item=2023002233&perks=4090651448,1806718225,3824105627,1909124648
+dimwishlist:item=2023002233&perks=4090651448,1806718225,3824105627,960997401
+dimwishlist:item=2023002233&perks=4090651448,1080094173,3824105627,1909124648
+dimwishlist:item=2023002233&perks=4090651448,1080094173,3824105627,960997401
+dimwishlist:item=2023002233&perks=839105230,1946186791,3824105627,1909124648
+dimwishlist:item=2023002233&perks=839105230,1946186791,3824105627,960997401
+dimwishlist:item=2023002233&perks=839105230,769709866,3824105627,1909124648
+dimwishlist:item=2023002233&perks=839105230,769709866,3824105627,960997401
+dimwishlist:item=2023002233&perks=839105230,1806718225,3824105627,1909124648
+dimwishlist:item=2023002233&perks=839105230,1806718225,3824105627,960997401
+dimwishlist:item=2023002233&perks=839105230,1080094173,3824105627,1909124648
+dimwishlist:item=2023002233&perks=839105230,1080094173,3824105627,960997401
+
+
+// All or Nothing - All or Nothing (PvE)(Basic) (pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Basic. Unique version which can roll origin trait Accelerated Assault. Best for large groups of enemies. Best perks: Firefly (precision kills trigger explosion and nearly maxes out Reload Speed) with Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Alternatively Sever (debuff target's damage and spawn Tangle on kill). Any barrel/mag until getting a better roll. tags:pve
+dimwishlist:item=2023002233&perks=3824105627,1909124648
+dimwishlist:item=2023002233&perks=3824105627,960997401
+
+
+// Compact Defender - Compact Defender (PvE) Best volatile debuff and overshield (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Best volatile debuff and overshield. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds) and Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Fluted Barrel for overall QoL. Ionized Heatsink, heat generation masterwork, and mod to reduce constant overheating from heat-generating basestat of 90 (very high) to 60 (manageable). tags:god-pve,pve
+dimwishlist:item=2819552809&perks=1840239774,807993149,2048641572,776531651
+
+
+// Compact Defender - Compact Defender (PvE) Good volatile debuff and overshield (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Good volatile debuff and overshield. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds) and Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Any mag/mod to reduce constant overheating from heat-generating basestat of 90 (very high) to 60 (manageable). tags:god-pve,pve
+dimwishlist:item=2819552809&perks=1840239774,807993149,2048641572,776531651
+dimwishlist:item=2819552809&perks=1840239774,1080094173,2048641572,776531651
+dimwishlist:item=2819552809&perks=1840239774,1806718225,2048641572,776531651
+dimwishlist:item=2819552809&perks=1840239774,1092016998,2048641572,776531651
+dimwishlist:item=2819552809&perks=4090651448,807993149,2048641572,776531651
+dimwishlist:item=2819552809&perks=4090651448,1080094173,2048641572,776531651
+dimwishlist:item=2819552809&perks=4090651448,1806718225,2048641572,776531651
+dimwishlist:item=2819552809&perks=4090651448,1092016998,2048641572,776531651
+dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,776531651
+dimwishlist:item=2819552809&perks=839105230,1080094173,2048641572,776531651
+dimwishlist:item=2819552809&perks=839105230,1806718225,2048641572,776531651
+dimwishlist:item=2819552809&perks=839105230,1092016998,2048641572,776531651
+dimwishlist:item=2819552809&perks=1482024992,807993149,2048641572,776531651
+dimwishlist:item=2819552809&perks=1482024992,1080094173,2048641572,776531651
+dimwishlist:item=2819552809&perks=1482024992,1806718225,2048641572,776531651
+dimwishlist:item=2819552809&perks=1482024992,1092016998,2048641572,776531651
+
+
+// Compact Defender - Compact Defender (PvE) Best volatile debuff and explosions (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Best volatile debuff and explosions. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Fluted Barrel for overall QoL. Ionized Heatsink, heat generation masterwork, and mod to reduce constant overheating from a heat-generating stat of 90 very high to 60 (manageable). tags:god-pve,pve
+dimwishlist:item=2819552809&perks=1840239774,807993149,2048641572,1909124648
+
+
+// Compact Defender - Compact Defender (PvE) Good volatile debuff and explosions (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Good volatile debuff and explosions. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Any barrel/mag that improves heat-generating stat (basestate 90 means quickly overheating; 60 is more manageable). tags:god-pve,pve
+dimwishlist:item=2819552809&perks=1840239774,807993149,2048641572,1909124648
+dimwishlist:item=2819552809&perks=1840239774,1080094173,2048641572,1909124648
+dimwishlist:item=2819552809&perks=1840239774,1806718225,2048641572,1909124648
+dimwishlist:item=2819552809&perks=1840239774,1092016998,2048641572,1909124648
+dimwishlist:item=2819552809&perks=4090651448,807993149,2048641572,1909124648
+dimwishlist:item=2819552809&perks=4090651448,1080094173,2048641572,1909124648
+dimwishlist:item=2819552809&perks=4090651448,1806718225,2048641572,1909124648
+dimwishlist:item=2819552809&perks=4090651448,1092016998,2048641572,1909124648
+dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,1909124648
+dimwishlist:item=2819552809&perks=839105230,1080094173,2048641572,1909124648
+dimwishlist:item=2819552809&perks=839105230,1806718225,2048641572,1909124648
+dimwishlist:item=2819552809&perks=839105230,1092016998,2048641572,1909124648
+dimwishlist:item=2819552809&perks=1482024992,807993149,2048641572,1909124648
+dimwishlist:item=2819552809&perks=1482024992,1080094173,2048641572,1909124648
+dimwishlist:item=2819552809&perks=1482024992,1806718225,2048641572,1909124648
+dimwishlist:item=2819552809&perks=1482024992,1092016998,2048641572,1909124648
+
+
+// Compact Defender - Compact Defender (PvE) Best volatile debuff and bonus damage (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Best volatile debuff and bonus damage. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Desperate Measures (bonus damage from kills, more bonus from grenade/melee kills). Fluted Barrel for overall QoL. Ionized Heatsink, heat generation masterwork, and mod to reduce constant overheating from heat-generatinkeeg basestat of 90 (very high) to 60 (manageable). tags:god-pve,pve
+dimwishlist:item=2819552809&perks=1840239774,807993149,2048641572,2109543898
+
+
+// Compact Defender - Compact Defender (PvE) Good volatile debuff and damage (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Good volatile debuff and damage. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Any barrel/mag that improves heat-generating stat (basestate 90 means quickly overheating; 60 is more manageable). tags:god-pve,pve
+dimwishlist:item=2819552809&perks=1840239774,807993149,2048641572,2109543898
+dimwishlist:item=2819552809&perks=1840239774,1080094173,2048641572,2109543898
+dimwishlist:item=2819552809&perks=1840239774,1806718225,2048641572,2109543898
+dimwishlist:item=2819552809&perks=1840239774,1092016998,2048641572,2109543898
+dimwishlist:item=2819552809&perks=4090651448,807993149,2048641572,2109543898
+dimwishlist:item=2819552809&perks=4090651448,1080094173,2048641572,2109543898
+dimwishlist:item=2819552809&perks=4090651448,1806718225,2048641572,2109543898
+dimwishlist:item=2819552809&perks=4090651448,1092016998,2048641572,2109543898
+dimwishlist:item=2819552809&perks=839105230,807993149,2048641572,2109543898
+dimwishlist:item=2819552809&perks=839105230,1080094173,2048641572,2109543898
+dimwishlist:item=2819552809&perks=839105230,1806718225,2048641572,2109543898
+dimwishlist:item=2819552809&perks=839105230,1092016998,2048641572,2109543898
+dimwishlist:item=2819552809&perks=1482024992,807993149,2048641572,2109543898
+dimwishlist:item=2819552809&perks=1482024992,1080094173,2048641572,2109543898
+dimwishlist:item=2819552809&perks=1482024992,1806718225,2048641572,2109543898
+dimwishlist:item=2819552809&perks=1482024992,1092016998,2048641572,2109543898
+
+
+// Compact Defender - Compact Defender (PvE) Basic volatile debuff and overshield (pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Basic volatile debuff and overshield. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds) perfectly sets up Repulsor Brace for overshield on void-debuffed kills. Any barrel/mag until you get a better roll, but prefer anything that reduces heat generation. tags:pve
+dimwishlist:item=2819552809&perks=2048641572,776531651
+
+
+// Compact Defender - Compact Defender (PvE) Basic volatile debuff and explosions (pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Basic volatile debuff and overshield. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Any barrel/mag until you get a better roll, but prefer anything that reduces heat generation. tags:pve
+dimwishlist:item=2819552809&perks=2048641572,1909124648
+
+
+// Compact Defender - Compact Defender (PvE) Basic volatile debuff and damage (pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Basic volatile debuff and damage. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Any barrel/mag until you get a better roll, but prefer anything that reduces heat generation. tags:pve
+dimwishlist:item=2819552809&perks=2048641572,2109543898
+
+
+// All or Nothing - All or Nothing (PVE)(Such Best) (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Such Best. Efficient workhorse for large groups of enemies. Firefly (precision kills trigger explosion and nearly maxes out Reload Speed) synergizes well with Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Best barrel/mag: Fluted Barrel to boost quite low base Handling, Light Heatsink for more Handling and Reload Speed. Best origin trait: Accelerated Assault (sustained damage slightly improves damage and reduces heat generation). tags:god-pve,pve
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,1909124648,1309453587
+
+
+// All or Nothing - All or Nothing (PvE)(Best) (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Best. Efficient workhorse for large groups of enemies. Firefly (precision kills trigger explosion and nearly maxes out Reload Speed) synergizes well with Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Best barrel/mag: Fluted Barrel to boost quite low base Handling, Light Heatsink for more Handling and Reload Speed. tags:god-pve,pve
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,1909124648
+
+
+// All or Nothing - All or Nothing (PvE)(Good) (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Good. Efficient workhorse for large groups of enemies. Firefly (precision kills trigger explosion and nearly maxes out Reload Speed) synergizes well with Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Any barrel/mag that improves Handling and/or Reload Speed. tags:god-pve,pve
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,1909124648
+dimwishlist:item=3984776322&perks=1840239774,1946186791,3824105627,960997401
+dimwishlist:item=3984776322&perks=1840239774,769709866,3824105627,1909124648
+dimwishlist:item=3984776322&perks=1840239774,769709866,3824105627,960997401
+dimwishlist:item=3984776322&perks=1840239774,1806718225,3824105627,1909124648
+dimwishlist:item=3984776322&perks=1840239774,1806718225,3824105627,960997401
+dimwishlist:item=3984776322&perks=1840239774,1080094173,3824105627,1909124648
+dimwishlist:item=3984776322&perks=1840239774,1080094173,3824105627,960997401
+dimwishlist:item=3984776322&perks=4090651448,1946186791,3824105627,1909124648
+dimwishlist:item=3984776322&perks=4090651448,1946186791,3824105627,960997401
+dimwishlist:item=3984776322&perks=4090651448,769709866,3824105627,1909124648
+dimwishlist:item=3984776322&perks=4090651448,769709866,3824105627,960997401
+dimwishlist:item=3984776322&perks=4090651448,1806718225,3824105627,1909124648
+dimwishlist:item=3984776322&perks=4090651448,1806718225,3824105627,960997401
+dimwishlist:item=3984776322&perks=4090651448,1080094173,3824105627,1909124648
+dimwishlist:item=3984776322&perks=4090651448,1080094173,3824105627,960997401
+dimwishlist:item=3984776322&perks=839105230,1946186791,3824105627,1909124648
+dimwishlist:item=3984776322&perks=839105230,1946186791,3824105627,960997401
+dimwishlist:item=3984776322&perks=839105230,769709866,3824105627,1909124648
+dimwishlist:item=3984776322&perks=839105230,769709866,3824105627,960997401
+dimwishlist:item=3984776322&perks=839105230,1806718225,3824105627,1909124648
+dimwishlist:item=3984776322&perks=839105230,1806718225,3824105627,960997401
+dimwishlist:item=3984776322&perks=839105230,1080094173,3824105627,1909124648
+dimwishlist:item=3984776322&perks=839105230,1080094173,3824105627,960997401
+
+
+// All or Nothing - All or Nothing (PvE)(Basic) (pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Basic. Efficient workhorse for large groups of enemies. Firefly (precision kills trigger explosion and nearly maxes out Reload Speed) synergizes well with Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Any barrel/mag until getting a better roll. tags:pve
+dimwishlist:item=3984776322&perks=3824105627,1909124648
+dimwishlist:item=3984776322&perks=3824105627,960997401
+
+

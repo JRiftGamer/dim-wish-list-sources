@@ -1,0 +1,151 @@
+title:Blueberries.gg's Y8 (2025) S28 (Renegades) Dawning weapon picks (PVE)
+description:Y8 (2025) S28 (Renegades) Dawning collected/tiered weapon picks from https://www.blueberries.gg/leveling/dawning-event and https://www.blueberries.gg/weapons/destiny-2-weapons-list
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Best Arc build auto-reload (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Best Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size. tags:god-pve,pve
+dimwishlist:item=2645567209&perks=1840239774,1087426260,1511100135,3966416502
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Good Arc build auto-reload (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Good Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty.. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Barrel/mag options prioritizing low Handling and Magazine size. tags:god-pve,pve
+dimwishlist:item=2645567209&perks=1840239774,1087426260,1511100135,3966416502
+dimwishlist:item=2645567209&perks=1840239774,1087426260,1511100135,2173046394
+dimwishlist:item=2645567209&perks=1840239774,2420895100,1511100135,3966416502
+dimwishlist:item=2645567209&perks=1840239774,2420895100,1511100135,2173046394
+dimwishlist:item=2645567209&perks=1840239774,1431678320,1511100135,3966416502
+dimwishlist:item=2645567209&perks=1840239774,1431678320,1511100135,2173046394
+dimwishlist:item=2645567209&perks=1840239774,679225683,1511100135,3966416502
+dimwishlist:item=2645567209&perks=1840239774,679225683,1511100135,2173046394
+dimwishlist:item=2645567209&perks=1840239774,3230963543,1511100135,3966416502
+dimwishlist:item=2645567209&perks=1840239774,3230963543,1511100135,2173046394
+dimwishlist:item=2645567209&perks=839105230,1087426260,1511100135,3966416502
+dimwishlist:item=2645567209&perks=839105230,1087426260,1511100135,2173046394
+dimwishlist:item=2645567209&perks=839105230,2420895100,1511100135,3966416502
+dimwishlist:item=2645567209&perks=839105230,2420895100,1511100135,2173046394
+dimwishlist:item=2645567209&perks=839105230,1431678320,1511100135,3966416502
+dimwishlist:item=2645567209&perks=839105230,1431678320,1511100135,2173046394
+dimwishlist:item=2645567209&perks=839105230,679225683,1511100135,3966416502
+dimwishlist:item=2645567209&perks=839105230,679225683,1511100135,2173046394
+dimwishlist:item=2645567209&perks=839105230,3230963543,1511100135,3966416502
+dimwishlist:item=2645567209&perks=839105230,3230963543,1511100135,2173046394
+dimwishlist:item=2645567209&perks=4090651448,1087426260,1511100135,3966416502
+dimwishlist:item=2645567209&perks=4090651448,1087426260,1511100135,2173046394
+dimwishlist:item=2645567209&perks=4090651448,2420895100,1511100135,3966416502
+dimwishlist:item=2645567209&perks=4090651448,2420895100,1511100135,2173046394
+dimwishlist:item=2645567209&perks=4090651448,1431678320,1511100135,3966416502
+dimwishlist:item=2645567209&perks=4090651448,1431678320,1511100135,2173046394
+dimwishlist:item=2645567209&perks=4090651448,679225683,1511100135,3966416502
+dimwishlist:item=2645567209&perks=4090651448,679225683,1511100135,2173046394
+dimwishlist:item=2645567209&perks=4090651448,3230963543,1511100135,3966416502
+dimwishlist:item=2645567209&perks=4090651448,3230963543,1511100135,2173046394
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Best neutral auto-reload (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Best neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size. tags:god-pve,pve
+dimwishlist:item=2645567209&perks=1840239774,1087426260,1115162408,3218042543
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Good neutral auto-reload (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Good neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Barrel/mag options prioritizing low Handling and Magazine size. tags:god-pve,pve
+dimwishlist:item=2645567209&perks=1840239774,1087426260,1115162408,3218042543
+dimwishlist:item=2645567209&perks=1840239774,2420895100,1115162408,3218042543
+dimwishlist:item=2645567209&perks=1840239774,1431678320,1115162408,3218042543
+dimwishlist:item=2645567209&perks=1840239774,679225683,1115162408,3218042543
+dimwishlist:item=2645567209&perks=1840239774,3230963543,1115162408,3218042543
+dimwishlist:item=2645567209&perks=839105230,1087426260,1115162408,3218042543
+dimwishlist:item=2645567209&perks=839105230,2420895100,1115162408,3218042543
+dimwishlist:item=2645567209&perks=839105230,1431678320,1115162408,3218042543
+dimwishlist:item=2645567209&perks=839105230,679225683,1115162408,3218042543
+dimwishlist:item=2645567209&perks=839105230,3230963543,1115162408,3218042543
+dimwishlist:item=2645567209&perks=4090651448,1087426260,1115162408,3218042543
+dimwishlist:item=2645567209&perks=4090651448,2420895100,1115162408,3218042543
+dimwishlist:item=2645567209&perks=4090651448,1431678320,1115162408,3218042543
+dimwishlist:item=2645567209&perks=4090651448,679225683,1115162408,3218042543
+dimwishlist:item=2645567209&perks=4090651448,3230963543,1115162408,3218042543
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Basic Arc build auto-reload (pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Basic Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Any barrel/mag until getting a better roll. tags:pve
+dimwishlist:item=2645567209&perks=1511100135,3966416502
+dimwishlist:item=2645567209&perks=1511100135,2173046394
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Basic neutral auto-reload (pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Basic neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Any barrel/mag until getting a better roll. tags:pve
+dimwishlist:item=2645567209&perks=1115162408,3218042543
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Best Arc build auto-reload (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Best Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size. tags:god-pve,pve
+dimwishlist:item=3685829362&perks=1840239774,1087426260,1511100135,3966416502
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Good Arc build auto-reload (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Good Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty.. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Barrel/mag options prioritizing low Handling and Magazine size. tags:god-pve,pve
+dimwishlist:item=3685829362&perks=1840239774,1087426260,1511100135,3966416502
+dimwishlist:item=3685829362&perks=1840239774,1087426260,1511100135,2173046394
+dimwishlist:item=3685829362&perks=1840239774,2420895100,1511100135,3966416502
+dimwishlist:item=3685829362&perks=1840239774,2420895100,1511100135,2173046394
+dimwishlist:item=3685829362&perks=1840239774,1431678320,1511100135,3966416502
+dimwishlist:item=3685829362&perks=1840239774,1431678320,1511100135,2173046394
+dimwishlist:item=3685829362&perks=1840239774,679225683,1511100135,3966416502
+dimwishlist:item=3685829362&perks=1840239774,679225683,1511100135,2173046394
+dimwishlist:item=3685829362&perks=1840239774,3230963543,1511100135,3966416502
+dimwishlist:item=3685829362&perks=1840239774,3230963543,1511100135,2173046394
+dimwishlist:item=3685829362&perks=839105230,1087426260,1511100135,3966416502
+dimwishlist:item=3685829362&perks=839105230,1087426260,1511100135,2173046394
+dimwishlist:item=3685829362&perks=839105230,2420895100,1511100135,3966416502
+dimwishlist:item=3685829362&perks=839105230,2420895100,1511100135,2173046394
+dimwishlist:item=3685829362&perks=839105230,1431678320,1511100135,3966416502
+dimwishlist:item=3685829362&perks=839105230,1431678320,1511100135,2173046394
+dimwishlist:item=3685829362&perks=839105230,679225683,1511100135,3966416502
+dimwishlist:item=3685829362&perks=839105230,679225683,1511100135,2173046394
+dimwishlist:item=3685829362&perks=839105230,3230963543,1511100135,3966416502
+dimwishlist:item=3685829362&perks=839105230,3230963543,1511100135,2173046394
+dimwishlist:item=3685829362&perks=4090651448,1087426260,1511100135,3966416502
+dimwishlist:item=3685829362&perks=4090651448,1087426260,1511100135,2173046394
+dimwishlist:item=3685829362&perks=4090651448,2420895100,1511100135,3966416502
+dimwishlist:item=3685829362&perks=4090651448,2420895100,1511100135,2173046394
+dimwishlist:item=3685829362&perks=4090651448,1431678320,1511100135,3966416502
+dimwishlist:item=3685829362&perks=4090651448,1431678320,1511100135,2173046394
+dimwishlist:item=3685829362&perks=4090651448,679225683,1511100135,3966416502
+dimwishlist:item=3685829362&perks=4090651448,679225683,1511100135,2173046394
+dimwishlist:item=3685829362&perks=4090651448,3230963543,1511100135,3966416502
+dimwishlist:item=3685829362&perks=4090651448,3230963543,1511100135,2173046394
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Best neutral auto-reload (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Best neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size. tags:god-pve,pve
+dimwishlist:item=3685829362&perks=1840239774,1087426260,1115162408,3218042543
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Good neutral auto-reload (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Good neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Barrel/mag options prioritizing low Handling and Magazine size. tags:god-pve,pve
+dimwishlist:item=3685829362&perks=1840239774,1087426260,1115162408,3218042543
+dimwishlist:item=3685829362&perks=1840239774,2420895100,1115162408,3218042543
+dimwishlist:item=3685829362&perks=1840239774,1431678320,1115162408,3218042543
+dimwishlist:item=3685829362&perks=1840239774,679225683,1115162408,3218042543
+dimwishlist:item=3685829362&perks=1840239774,3230963543,1115162408,3218042543
+dimwishlist:item=3685829362&perks=839105230,1087426260,1115162408,3218042543
+dimwishlist:item=3685829362&perks=839105230,2420895100,1115162408,3218042543
+dimwishlist:item=3685829362&perks=839105230,1431678320,1115162408,3218042543
+dimwishlist:item=3685829362&perks=839105230,679225683,1115162408,3218042543
+dimwishlist:item=3685829362&perks=839105230,3230963543,1115162408,3218042543
+dimwishlist:item=3685829362&perks=4090651448,1087426260,1115162408,3218042543
+dimwishlist:item=3685829362&perks=4090651448,2420895100,1115162408,3218042543
+dimwishlist:item=3685829362&perks=4090651448,1431678320,1115162408,3218042543
+dimwishlist:item=3685829362&perks=4090651448,679225683,1115162408,3218042543
+dimwishlist:item=3685829362&perks=4090651448,3230963543,1115162408,3218042543
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Basic Arc build auto-reload (pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Basic Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Any barrel/mag until getting a better roll. tags:pve
+dimwishlist:item=3685829362&perks=1511100135,3966416502
+dimwishlist:item=3685829362&perks=1511100135,2173046394
+
+
+// Fimbulwinter Stitch - Fimbulwinter Stitch (PvE) Basic neutral auto-reload (pve)
+//notes: (PvE)(Tier: A)(MW: Handling) Basic neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Any barrel/mag until getting a better roll. tags:pve
+dimwishlist:item=3685829362&perks=1115162408,3218042543
+
+
