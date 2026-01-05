@@ -47,6 +47,174 @@ dimwishlist:item=2023002233&perks=3824105627,960997401
 
 // Compact Defender - Compact Defender (PvE) Best volatile debuff and overshield (god-pve,pve)
 //notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Best volatile debuff and overshield. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds) and Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Fluted Barrel for overall QoL. Ionized Heatsink, heat generation masterwork, and mod to reduce constant overheating from heat-generating basestat of 90 (very high) to 60 (manageable). tags:god-pve,pve
+dimwishlist:item=2659286158&perks=1840239774,807993149,2048641572,776531651
+
+
+// Compact Defender - Compact Defender (PvE) Best volatile debuff and explosions (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Best volatile debuff and explosions. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Fluted Barrel for overall QoL. Ionized Heatsink, heat generation masterwork, and mod to reduce constant overheating from a heat-generating stat of 90 very high to 60 (manageable). tags:god-pve,pve
+dimwishlist:item=2659286158&perks=1840239774,807993149,2048641572,1909124648
+
+
+// Compact Defender - Compact Defender (PvE) Best volatile debuff and bonus damage (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Best volatile debuff and bonus damage. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Desperate Measures (bonus damage from kills, more bonus from grenade/melee kills). Fluted Barrel for overall QoL. Ionized Heatsink, heat generation masterwork, and mod to reduce constant overheating from heat-generatinkeeg basestat of 90 (very high) to 60 (manageable). tags:god-pve,pve
+dimwishlist:item=2659286158&perks=1840239774,807993149,2048641572,2109543898
+
+
+// Compact Defender - Compact Defender (PvP) Best (god-pvp,pvp)
+//notes: (PvE)(Tier:B)(MW:Range) Best. Perk 1: Rangefinder (+10 range on ADS). Perk 2: Kill Clip (buff damage on reload after kill) or Desperate Measures (buff damage on Weapon kill, larger buff on Grenade/Melee kill). Smallbore and Particle Repeater for Range and Stability. tags:god-pvp,pvp
+dimwishlist:item=2659286158&perks=1482024992,3868766766,2846385770,1015611457
+dimwishlist:item=2659286158&perks=1482024992,3868766766,2846385770,2109543898
+
+
+// Compact Defender - Compact Defender (PvE) Good volatile debuff and overshield (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Good volatile debuff and overshield. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds) and Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Any mag/mod to reduce constant overheating from heat-generating basestat of 90 (very high) to 60 (manageable). tags:god-pve,pve
+dimwishlist:item=2659286158&perks=1840239774,807993149,2048641572,776531651
+dimwishlist:item=2659286158&perks=1840239774,1080094173,2048641572,776531651
+dimwishlist:item=2659286158&perks=1840239774,1806718225,2048641572,776531651
+dimwishlist:item=2659286158&perks=1840239774,1092016998,2048641572,776531651
+dimwishlist:item=2659286158&perks=4090651448,807993149,2048641572,776531651
+dimwishlist:item=2659286158&perks=4090651448,1080094173,2048641572,776531651
+dimwishlist:item=2659286158&perks=4090651448,1806718225,2048641572,776531651
+dimwishlist:item=2659286158&perks=4090651448,1092016998,2048641572,776531651
+dimwishlist:item=2659286158&perks=839105230,807993149,2048641572,776531651
+dimwishlist:item=2659286158&perks=839105230,1080094173,2048641572,776531651
+dimwishlist:item=2659286158&perks=839105230,1806718225,2048641572,776531651
+dimwishlist:item=2659286158&perks=839105230,1092016998,2048641572,776531651
+dimwishlist:item=2659286158&perks=1482024992,807993149,2048641572,776531651
+dimwishlist:item=2659286158&perks=1482024992,1080094173,2048641572,776531651
+dimwishlist:item=2659286158&perks=1482024992,1806718225,2048641572,776531651
+dimwishlist:item=2659286158&perks=1482024992,1092016998,2048641572,776531651
+
+
+// Compact Defender - Compact Defender (PvE) Good volatile debuff and explosions (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Good volatile debuff and explosions. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Any barrel/mag that improves heat-generating stat (basestate 90 means quickly overheating; 60 is more manageable). tags:god-pve,pve
+dimwishlist:item=2659286158&perks=1840239774,807993149,2048641572,1909124648
+dimwishlist:item=2659286158&perks=1840239774,1080094173,2048641572,1909124648
+dimwishlist:item=2659286158&perks=1840239774,1806718225,2048641572,1909124648
+dimwishlist:item=2659286158&perks=1840239774,1092016998,2048641572,1909124648
+dimwishlist:item=2659286158&perks=4090651448,807993149,2048641572,1909124648
+dimwishlist:item=2659286158&perks=4090651448,1080094173,2048641572,1909124648
+dimwishlist:item=2659286158&perks=4090651448,1806718225,2048641572,1909124648
+dimwishlist:item=2659286158&perks=4090651448,1092016998,2048641572,1909124648
+dimwishlist:item=2659286158&perks=839105230,807993149,2048641572,1909124648
+dimwishlist:item=2659286158&perks=839105230,1080094173,2048641572,1909124648
+dimwishlist:item=2659286158&perks=839105230,1806718225,2048641572,1909124648
+dimwishlist:item=2659286158&perks=839105230,1092016998,2048641572,1909124648
+dimwishlist:item=2659286158&perks=1482024992,807993149,2048641572,1909124648
+dimwishlist:item=2659286158&perks=1482024992,1080094173,2048641572,1909124648
+dimwishlist:item=2659286158&perks=1482024992,1806718225,2048641572,1909124648
+dimwishlist:item=2659286158&perks=1482024992,1092016998,2048641572,1909124648
+
+
+// Compact Defender - Compact Defender (PvE) Good volatile debuff and damage (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Good volatile debuff and damage. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Any barrel/mag that improves heat-generating stat (basestate 90 means quickly overheating; 60 is more manageable). tags:god-pve,pve
+dimwishlist:item=2659286158&perks=1840239774,807993149,2048641572,2109543898
+dimwishlist:item=2659286158&perks=1840239774,1080094173,2048641572,2109543898
+dimwishlist:item=2659286158&perks=1840239774,1806718225,2048641572,2109543898
+dimwishlist:item=2659286158&perks=1840239774,1092016998,2048641572,2109543898
+dimwishlist:item=2659286158&perks=4090651448,807993149,2048641572,2109543898
+dimwishlist:item=2659286158&perks=4090651448,1080094173,2048641572,2109543898
+dimwishlist:item=2659286158&perks=4090651448,1806718225,2048641572,2109543898
+dimwishlist:item=2659286158&perks=4090651448,1092016998,2048641572,2109543898
+dimwishlist:item=2659286158&perks=839105230,807993149,2048641572,2109543898
+dimwishlist:item=2659286158&perks=839105230,1080094173,2048641572,2109543898
+dimwishlist:item=2659286158&perks=839105230,1806718225,2048641572,2109543898
+dimwishlist:item=2659286158&perks=839105230,1092016998,2048641572,2109543898
+dimwishlist:item=2659286158&perks=1482024992,807993149,2048641572,2109543898
+dimwishlist:item=2659286158&perks=1482024992,1080094173,2048641572,2109543898
+dimwishlist:item=2659286158&perks=1482024992,1806718225,2048641572,2109543898
+dimwishlist:item=2659286158&perks=1482024992,1092016998,2048641572,2109543898
+
+
+// Compact Defender - Compact Defender (PvP) Good (god-pvp,pvp)
+//notes: (PvE)(Tier:B)(MW:Range) Good. Perk 1: Rangefinder (+10 range and zoom on ADS for tighter shot group further out). Alternatively Delicate Tuning (+22 range on ADS below 50% heat, +11 above) if you can pace your shots to stay below 50% heat. Perk 2: Kill Clip (buff damage on reload after kill) or Desperate Measures (buff damage on Weapon kill, larger buff on Grenade/Melee kill). Alternatively Precision Instrument is a good choice but PvP  effectiveness varies widely. Smallbore and Particle Repeater alternatives for Range and Stability. tags:god-pvp,pvp
+dimwishlist:item=2659286158&perks=1482024992,3868766766,2846385770,1015611457
+dimwishlist:item=2659286158&perks=1482024992,3868766766,2846385770,2109543898
+dimwishlist:item=2659286158&perks=1482024992,3868766766,307683764,1015611457
+dimwishlist:item=2659286158&perks=1482024992,3868766766,307683764,2109543898
+dimwishlist:item=2659286158&perks=1482024992,2969185026,2846385770,1015611457
+dimwishlist:item=2659286158&perks=1482024992,2969185026,2846385770,2109543898
+dimwishlist:item=2659286158&perks=1482024992,2969185026,307683764,1015611457
+dimwishlist:item=2659286158&perks=1482024992,2969185026,307683764,2109543898
+dimwishlist:item=2659286158&perks=1482024992,769709866,2846385770,1015611457
+dimwishlist:item=2659286158&perks=1482024992,769709866,2846385770,2109543898
+dimwishlist:item=2659286158&perks=1482024992,769709866,307683764,1015611457
+dimwishlist:item=2659286158&perks=1482024992,769709866,307683764,2109543898
+dimwishlist:item=2659286158&perks=4090651448,3868766766,2846385770,1015611457
+dimwishlist:item=2659286158&perks=4090651448,3868766766,2846385770,2109543898
+dimwishlist:item=2659286158&perks=4090651448,3868766766,307683764,1015611457
+dimwishlist:item=2659286158&perks=4090651448,3868766766,307683764,2109543898
+dimwishlist:item=2659286158&perks=4090651448,2969185026,2846385770,1015611457
+dimwishlist:item=2659286158&perks=4090651448,2969185026,2846385770,2109543898
+dimwishlist:item=2659286158&perks=4090651448,2969185026,307683764,1015611457
+dimwishlist:item=2659286158&perks=4090651448,2969185026,307683764,2109543898
+dimwishlist:item=2659286158&perks=4090651448,769709866,2846385770,1015611457
+dimwishlist:item=2659286158&perks=4090651448,769709866,2846385770,2109543898
+dimwishlist:item=2659286158&perks=4090651448,769709866,307683764,1015611457
+dimwishlist:item=2659286158&perks=4090651448,769709866,307683764,2109543898
+dimwishlist:item=2659286158&perks=3250034553,3868766766,2846385770,1015611457
+dimwishlist:item=2659286158&perks=3250034553,3868766766,2846385770,2109543898
+dimwishlist:item=2659286158&perks=3250034553,3868766766,307683764,1015611457
+dimwishlist:item=2659286158&perks=3250034553,3868766766,307683764,2109543898
+dimwishlist:item=2659286158&perks=3250034553,2969185026,2846385770,1015611457
+dimwishlist:item=2659286158&perks=3250034553,2969185026,2846385770,2109543898
+dimwishlist:item=2659286158&perks=3250034553,2969185026,307683764,1015611457
+dimwishlist:item=2659286158&perks=3250034553,2969185026,307683764,2109543898
+dimwishlist:item=2659286158&perks=3250034553,769709866,2846385770,1015611457
+dimwishlist:item=2659286158&perks=3250034553,769709866,2846385770,2109543898
+dimwishlist:item=2659286158&perks=3250034553,769709866,307683764,1015611457
+dimwishlist:item=2659286158&perks=3250034553,769709866,307683764,2109543898
+dimwishlist:item=2659286158&perks=1467527085,3868766766,2846385770,1015611457
+dimwishlist:item=2659286158&perks=1467527085,3868766766,2846385770,2109543898
+dimwishlist:item=2659286158&perks=1467527085,3868766766,307683764,1015611457
+dimwishlist:item=2659286158&perks=1467527085,3868766766,307683764,2109543898
+dimwishlist:item=2659286158&perks=1467527085,2969185026,2846385770,1015611457
+dimwishlist:item=2659286158&perks=1467527085,2969185026,2846385770,2109543898
+dimwishlist:item=2659286158&perks=1467527085,2969185026,307683764,1015611457
+dimwishlist:item=2659286158&perks=1467527085,2969185026,307683764,2109543898
+dimwishlist:item=2659286158&perks=1467527085,769709866,2846385770,1015611457
+dimwishlist:item=2659286158&perks=1467527085,769709866,2846385770,2109543898
+dimwishlist:item=2659286158&perks=1467527085,769709866,307683764,1015611457
+dimwishlist:item=2659286158&perks=1467527085,769709866,307683764,2109543898
+dimwishlist:item=2659286158&perks=202670084,3868766766,2846385770,1015611457
+dimwishlist:item=2659286158&perks=202670084,3868766766,2846385770,2109543898
+dimwishlist:item=2659286158&perks=202670084,3868766766,307683764,1015611457
+dimwishlist:item=2659286158&perks=202670084,3868766766,307683764,2109543898
+dimwishlist:item=2659286158&perks=202670084,2969185026,2846385770,1015611457
+dimwishlist:item=2659286158&perks=202670084,2969185026,2846385770,2109543898
+dimwishlist:item=2659286158&perks=202670084,2969185026,307683764,1015611457
+dimwishlist:item=2659286158&perks=202670084,2969185026,307683764,2109543898
+dimwishlist:item=2659286158&perks=202670084,769709866,2846385770,1015611457
+dimwishlist:item=2659286158&perks=202670084,769709866,2846385770,2109543898
+dimwishlist:item=2659286158&perks=202670084,769709866,307683764,1015611457
+dimwishlist:item=2659286158&perks=202670084,769709866,307683764,2109543898
+
+
+// Compact Defender - Compact Defender (PvE) Basic volatile debuff and overshield (pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Basic volatile debuff and overshield. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds) perfectly sets up Repulsor Brace for overshield on void-debuffed kills. Any barrel/mag until you get a better roll, but prefer anything that reduces heat generation. tags:pve
+dimwishlist:item=2659286158&perks=2048641572,776531651
+
+
+// Compact Defender - Compact Defender (PvE) Basic volatile debuff and explosions (pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Basic volatile debuff and overshield. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Any barrel/mag until you get a better roll, but prefer anything that reduces heat generation. tags:pve
+dimwishlist:item=2659286158&perks=2048641572,1909124648
+
+
+// Compact Defender - Compact Defender (PvE) Basic volatile debuff and damage (pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Basic volatile debuff and damage. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds). Thermal Atomization (bonus damage and explosions on kills at high heat -- and this weapon runs hot, just keep heat above 50% without triggering forced cooling). Any barrel/mag until you get a better roll, but prefer anything that reduces heat generation. tags:pve
+dimwishlist:item=2659286158&perks=2048641572,2109543898
+
+
+// Compact Defender - Compact Defender (PvP) Basic (pvp)
+//notes: (PvE)(Tier:B)(MW:Range) Basic. Perk 1: Rangefinder (+10 range and zoom on ADS for tighter shot group further out). Alternatively Delicate Tuning (+22 range on ADS below 50% heat, +11 above) if you can pace your shots to stay below 50% heat. Perk 2: Kill Clip (buff damage on reload after kill) or Desperate Measures (buff damage on Weapon kill, larger buff on Grenade/Melee kill). Alternatively Precision Instrument is a good choice but PvP  effectiveness varies widely. Any barrel/mag until you roll something to improve Range/Stability. tags:pvp
+dimwishlist:item=2659286158&perks=2846385770,1015611457
+dimwishlist:item=2659286158&perks=2846385770,2109543898
+dimwishlist:item=2659286158&perks=307683764,1015611457
+dimwishlist:item=2659286158&perks=307683764,2109543898
+
+
+// Compact Defender - Compact Defender (PvE) Best volatile debuff and overshield (god-pve,pve)
+//notes: (PvE)(Tier: A)(MW: Cooling/Vent Speed) Best volatile debuff and overshield. Destabilizing Rounds (kills create void burst spreading Volatile and granting Volatile Rounds) and Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Fluted Barrel for overall QoL. Ionized Heatsink, heat generation masterwork, and mod to reduce constant overheating from heat-generating basestat of 90 (very high) to 60 (manageable). tags:god-pve,pve
 dimwishlist:item=2819552809&perks=1840239774,807993149,2048641572,776531651
 
 
