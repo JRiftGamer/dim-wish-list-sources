@@ -21,7 +21,7 @@ dimwishlist:item=270610849&perks=1840239774,689005463,1523832109,555281244
 // Mistral Lift - Basic Mistral Lift (PvE) overfill to bursting (pve)
 //notes: Basic (PvE)(Tier:S)(MW:Charge Time) #test High uptime on Reservoir Burst's first-shot 27.5% damage buff on #ammo:overfill rounds from Reconstruction's #auto-reload (requires 5s?). Do all rounds above the mag size should get the damage buff? Seems like an easy way to consistently get +27.5% without every manually reloading.  
 #test whether Reconstruction + Reservoir Burst often beats Envious Arsenal + Bait and Switch. Both combinations theoretically give ~30% damage buff. But theoretically damage buff from Reconstruction + Reservoir Burst will always be ready immediately on enterring combat, whereas Envious Arsenal + Bait and Switch requires at least two weapon swaps to activate. tags:pve
-dimwishlist:item=270610849&perks=1840239774,689005463,1523832109,1427256713
+dimwishlist:item=270610849&perks=1523832109,1427256713
 
 
 // Mistral Lift - Basic Good Mistral Lift (PvE) high DPS swap-weapon rotation (pve)
@@ -55,7 +55,7 @@ dimwishlist:item=766122634&perks=1840239774,689005463,1523832109,555281244
 // Mistral Lift - Basic Mistral Lift (PvE) overfill to bursting (pve)
 //notes: Basic (PvE)(Tier:S)(MW:Charge Time) #test High uptime on Reservoir Burst's first-shot 27.5% damage buff on #ammo:overfill rounds from Reconstruction's #auto-reload (requires 5s?). Do all rounds above the mag size should get the damage buff? Seems like an easy way to consistently get +27.5% without every manually reloading.  
 #test whether Reconstruction + Reservoir Burst often beats Envious Arsenal + Bait and Switch. Both combinations theoretically give ~30% damage buff. But theoretically damage buff from Reconstruction + Reservoir Burst will always be ready immediately on enterring combat, whereas Envious Arsenal + Bait and Switch requires at least two weapon swaps to activate. tags:pve
-dimwishlist:item=766122634&perks=1840239774,689005463,1523832109,1427256713
+dimwishlist:item=766122634&perks=1523832109,1427256713
 
 
 // Mistral Lift - Basic Good Mistral Lift (PvE) high DPS swap-weapon rotation (pve)
