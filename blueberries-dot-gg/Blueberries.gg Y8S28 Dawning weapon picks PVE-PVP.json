@@ -506,12 +506,6 @@
             "name": "Basic Mistral Lift (PvE) overfill to bursting",
             "plugs": [
                 [
-                    1840239774
-                ],
-                [
-                    689005463
-                ],
-                [
                     1523832109
                 ],
                 [
@@ -630,12 +624,6 @@
             "name": "Basic Mistral Lift (PvE) overfill to bursting",
             "plugs": [
                 [
-                    1840239774
-                ],
-                [
-                    689005463
-                ],
-                [
                     1523832109
                 ],
                 [
@@ -673,6 +661,370 @@
                 ],
                 [
                     555281244
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Such Best (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals",
+            "hash": 2922964484,
+            "name": "Such Best Permafrost (PvE)  frost armor and stasis crystals",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1955165503
+                ],
+                [
+                    2922950962
+                ],
+                [
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Such Best (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2922964484,
+            "name": "Such Best Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    113508675
+                ],
+                [
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals",
+            "hash": 2922964484,
+            "name": "Best Permafrost (PvE)  frost armor and stasis crystals",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1955165503
+                ],
+                [
+                    2922950962
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2922964484,
+            "name": "Best Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    113508675
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals",
+            "hash": 2922964484,
+            "name": "Good Permafrost (PvE)  frost armor and stasis crystals",
+            "plugs": [
+                [
+                    3525010810,
+                    1844523823,
+                    3809316345
+                ],
+                [
+                    2822142346,
+                    3492396210,
+                    409831596
+                ],
+                [
+                    1955165503
+                ],
+                [
+                    2922950962
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2922964484,
+            "name": "Good Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3525010810,
+                    1844523823,
+                    3809316345
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    113508675
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2922964484,
+            "name": "Basic Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    113508675
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2922964484,
+            "name": "Basic Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    113508675
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Such Best (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals",
+            "hash": 2316331767,
+            "name": "Such Best Permafrost (PvE)  frost armor and stasis crystals",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1955165503
+                ],
+                [
+                    2922950962
+                ],
+                [
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Such Best (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2316331767,
+            "name": "Such Best Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    113508675
+                ],
+                [
+                    2120661319
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals",
+            "hash": 2316331767,
+            "name": "Best Permafrost (PvE)  frost armor and stasis crystals",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1955165503
+                ],
+                [
+                    2922950962
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2316331767,
+            "name": "Best Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    113508675
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals",
+            "hash": 2316331767,
+            "name": "Good Permafrost (PvE)  frost armor and stasis crystals",
+            "plugs": [
+                [
+                    3525010810,
+                    1844523823,
+                    3809316345
+                ],
+                [
+                    2822142346,
+                    3492396210,
+                    409831596
+                ],
+                [
+                    1955165503
+                ],
+                [
+                    2922950962
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2316331767,
+            "name": "Good Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3525010810,
+                    1844523823,
+                    3809316345
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    113508675
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2316331767,
+            "name": "Basic Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    113508675
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy",
+            "hash": 2316331767,
+            "name": "Basic Permafrost (PvE) grenade and multikill synergy",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    113508675
                 ]
             ],
             "tags": [
