@@ -431,6 +431,29 @@
             ]
         },
         {
+            "description": "Best (PvE)(Tier:S)(MW:Charge Time) #test High uptime on Reservoir Burst's first-shot 27.5% damage buff on #ammo:overfill rounds from Reconstruction's #auto-reload (requires 5s?). Do all rounds above the mag size should get the damage buff? Seems like an easy way to consistently get +27.5% without every manually reloading.  \n#test whether Reconstruction + Reservoir Burst often beats Envious Arsenal + Bait and Switch. Both combinations theoretically give ~30% damage buff. But theoretically damage buff from Reconstruction + Reservoir Burst will always be ready immediately on enterring combat, whereas Envious Arsenal + Bait and Switch requires at least two weapon swaps to activate.",
+            "hash": 766122634,
+            "name": "Best Mistral Lift (PvE) overfill to bursting",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    1427256713
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
             "description": "Best (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff.",
             "hash": 766122634,
             "name": "Best Good Mistral Lift (PvE) high DPS swap-weapon rotation",
@@ -473,6 +496,29 @@
                 ]
             ],
             "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier:S)(MW:Charge Time) #test High uptime on Reservoir Burst's first-shot 27.5% damage buff on #ammo:overfill rounds from Reconstruction's #auto-reload (requires 5s?). Do all rounds above the mag size should get the damage buff? Seems like an easy way to consistently get +27.5% without every manually reloading.  \n#test whether Reconstruction + Reservoir Burst often beats Envious Arsenal + Bait and Switch. Both combinations theoretically give ~30% damage buff. But theoretically damage buff from Reconstruction + Reservoir Burst will always be ready immediately on enterring combat, whereas Envious Arsenal + Bait and Switch requires at least two weapon swaps to activate.",
+            "hash": 766122634,
+            "name": "Basic Mistral Lift (PvE) overfill to bursting",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    1427256713
+                ]
+            ],
+            "tags": [
                 "PVE"
             ]
         },
@@ -491,7 +537,7 @@
             "tags": [
                 "PVE"
             ]
-        },        
+        },
         {
             "description": "Basic (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time.",
             "hash": 766122634,
@@ -510,6 +556,29 @@
             ]
         },
         {
+            "description": "Best (PvE)(Tier:S)(MW:Charge Time) #test High uptime on Reservoir Burst's first-shot 27.5% damage buff on #ammo:overfill rounds from Reconstruction's #auto-reload (requires 5s?). Do all rounds above the mag size should get the damage buff? Seems like an easy way to consistently get +27.5% without every manually reloading.  \n#test whether Reconstruction + Reservoir Burst often beats Envious Arsenal + Bait and Switch. Both combinations theoretically give ~30% damage buff. But theoretically damage buff from Reconstruction + Reservoir Burst will always be ready immediately on enterring combat, whereas Envious Arsenal + Bait and Switch requires at least two weapon swaps to activate.",
+            "hash": 270610849,
+            "name": "Best Mistral Lift (PvE) overfill to bursting",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    1427256713
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
             "description": "Best (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff.",
             "hash": 270610849,
             "name": "Best Good Mistral Lift (PvE) high DPS swap-weapon rotation",
@@ -556,6 +625,28 @@
             ]
         },
         {
+            "description": "Basic (PvE)(Tier:S)(MW:Charge Time) #test High uptime on Reservoir Burst's first-shot 27.5% damage buff on #ammo:overfill rounds from Reconstruction's #auto-reload (requires 5s?). Do all rounds above the mag size should get the damage buff? Seems like an easy way to consistently get +27.5% without every manually reloading.  \n#test whether Reconstruction + Reservoir Burst often beats Envious Arsenal + Bait and Switch. Both combinations theoretically give ~30% damage buff. But theoretically damage buff from Reconstruction + Reservoir Burst will always be ready immediately on enterring combat, whereas Envious Arsenal + Bait and Switch requires at least two weapon swaps to activate.",
+            "hash": 270610849,
+            "name": "Basic Mistral Lift (PvE) overfill to bursting",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    1427256713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
             "description": "Basic (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time.",
             "hash": 270610849,
             "name": "Basic Good Mistral Lift (PvE) high DPS swap-weapon rotation",
@@ -570,7 +661,7 @@
             "tags": [
                 "PVE"
             ]
-        },        
+        },
         {
             "description": "Basic (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time.",
             "hash": 270610849,
