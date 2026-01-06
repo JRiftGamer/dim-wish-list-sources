@@ -69,6 +69,56 @@ dimwishlist:item=766122634&perks=3987942396,555281244
 dimwishlist:item=766122634&perks=1523832109,555281244
 
 
+// Permafrost - Such Best Permafrost (PvE)  frost armor and stasis crystals (god-pve,pve)
+//notes: Such Best (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals tags:god-pve,pve
+dimwishlist:item=2316331767&perks=3525010810,2822142346,1955165503,2922950962,2120661319
+
+
+// Permafrost - Such Best Permafrost (PvE) grenade and multikill synergy (god-pve,pve)
+//notes: Such Best (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:god-pve,pve
+dimwishlist:item=2316331767&perks=3525010810,2822142346,3523296417,113508675,2120661319
+
+
+// Permafrost - Best Permafrost (PvE)  frost armor and stasis crystals (god-pve,pve)
+//notes: Best (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals tags:god-pve,pve
+dimwishlist:item=2316331767&perks=3525010810,2822142346,1955165503,2922950962
+
+
+// Permafrost - Best Permafrost (PvE) grenade and multikill synergy (god-pve,pve)
+//notes: Best (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:god-pve,pve
+dimwishlist:item=2316331767&perks=3525010810,2822142346,3523296417,113508675
+
+
+// Permafrost - Good Permafrost (PvE)  frost armor and stasis crystals (god-pve,pve)
+//notes: Good (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals tags:god-pve,pve
+dimwishlist:item=2316331767&perks=3525010810,2822142346,1955165503,2922950962
+dimwishlist:item=2316331767&perks=3525010810,3492396210,1955165503,2922950962
+dimwishlist:item=2316331767&perks=3525010810,409831596,1955165503,2922950962
+dimwishlist:item=2316331767&perks=1844523823,2822142346,1955165503,2922950962
+dimwishlist:item=2316331767&perks=1844523823,3492396210,1955165503,2922950962
+dimwishlist:item=2316331767&perks=1844523823,409831596,1955165503,2922950962
+dimwishlist:item=2316331767&perks=3809316345,2822142346,1955165503,2922950962
+dimwishlist:item=2316331767&perks=3809316345,3492396210,1955165503,2922950962
+dimwishlist:item=2316331767&perks=3809316345,409831596,1955165503,2922950962
+
+
+// Permafrost - Good Permafrost (PvE) grenade and multikill synergy (god-pve,pve)
+//notes: Good (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:god-pve,pve
+dimwishlist:item=2316331767&perks=3525010810,2822142346,3523296417,113508675
+dimwishlist:item=2316331767&perks=1844523823,2822142346,3523296417,113508675
+dimwishlist:item=2316331767&perks=3809316345,2822142346,3523296417,113508675
+
+
+// Permafrost - Basic Permafrost (PvE) grenade and multikill synergy (pve)
+//notes: Basic (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:pve
+dimwishlist:item=2316331767&perks=3523296417,113508675
+
+
+// Permafrost - Basic Permafrost (PvE) grenade and multikill synergy (pve)
+//notes: Basic (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:pve
+dimwishlist:item=2316331767&perks=3523296417,113508675
+
+
 // Fimbulwinter Stitch - Best Fimbulwinter Stitch (PvE) Arc build auto-reload (god-pve,pve)
 //notes: Best (PvE)(Tier: A)(MW: Handling) Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size. tags:god-pve,pve
 dimwishlist:item=2645567209&perks=1840239774,1087426260,1511100135,3966416502
@@ -302,6 +352,56 @@ dimwishlist:item=2645567209&perks=2846385770,555281244
 dimwishlist:item=2645567209&perks=2846385770,1015611457
 dimwishlist:item=2645567209&perks=2579169598,555281244
 dimwishlist:item=2645567209&perks=2579169598,1015611457
+
+
+// Permafrost - Such Best Permafrost (PvE)  frost armor and stasis crystals (god-pve,pve)
+//notes: Such Best (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals tags:god-pve,pve
+dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,2922950962,2120661319
+
+
+// Permafrost - Such Best Permafrost (PvE) grenade and multikill synergy (god-pve,pve)
+//notes: Such Best (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:god-pve,pve
+dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,113508675,2120661319
+
+
+// Permafrost - Best Permafrost (PvE)  frost armor and stasis crystals (god-pve,pve)
+//notes: Best (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals tags:god-pve,pve
+dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,2922950962
+
+
+// Permafrost - Best Permafrost (PvE) grenade and multikill synergy (god-pve,pve)
+//notes: Best (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:god-pve,pve
+dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,113508675
+
+
+// Permafrost - Good Permafrost (PvE)  frost armor and stasis crystals (god-pve,pve)
+//notes: Good (PvE)(Tier:A)(MW:Handling or Reload Speed)  frost armor and stasis crystals tags:god-pve,pve
+dimwishlist:item=2922964484&perks=3525010810,2822142346,1955165503,2922950962
+dimwishlist:item=2922964484&perks=3525010810,3492396210,1955165503,2922950962
+dimwishlist:item=2922964484&perks=3525010810,409831596,1955165503,2922950962
+dimwishlist:item=2922964484&perks=1844523823,2822142346,1955165503,2922950962
+dimwishlist:item=2922964484&perks=1844523823,3492396210,1955165503,2922950962
+dimwishlist:item=2922964484&perks=1844523823,409831596,1955165503,2922950962
+dimwishlist:item=2922964484&perks=3809316345,2822142346,1955165503,2922950962
+dimwishlist:item=2922964484&perks=3809316345,3492396210,1955165503,2922950962
+dimwishlist:item=2922964484&perks=3809316345,409831596,1955165503,2922950962
+
+
+// Permafrost - Good Permafrost (PvE) grenade and multikill synergy (god-pve,pve)
+//notes: Good (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:god-pve,pve
+dimwishlist:item=2922964484&perks=3525010810,2822142346,3523296417,113508675
+dimwishlist:item=2922964484&perks=1844523823,2822142346,3523296417,113508675
+dimwishlist:item=2922964484&perks=3809316345,2822142346,3523296417,113508675
+
+
+// Permafrost - Basic Permafrost (PvE) grenade and multikill synergy (pve)
+//notes: Basic (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:pve
+dimwishlist:item=2922964484&perks=3523296417,113508675
+
+
+// Permafrost - Basic Permafrost (PvE) grenade and multikill synergy (pve)
+//notes: Basic (PvE)(Tier:A)(MW:Handling or Reload Speed) grenade and multikill synergy tags:pve
+dimwishlist:item=2922964484&perks=3523296417,113508675
 
 
 // Fimbulwinter Stitch - Best Fimbulwinter Stitch (PvE) Arc build auto-reload (god-pve,pve)
