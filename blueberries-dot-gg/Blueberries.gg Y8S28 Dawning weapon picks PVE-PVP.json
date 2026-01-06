@@ -1,0 +1,592 @@
+{
+    "description": "Blueberries.gg's Y8 (2025/2026) S28 Dawning PVE & PVP collected/tiered weapon picks from https://www.blueberries.gg/leveling/dawning-event and https://www.blueberries.gg/weapons/destiny-2-weapons-list",
+    "name": "Blueberries.gg Y8S28 Dawning weapon picks PVE-PVP",
+    "data": [
+        {
+            "description": "Best (PvE)(Tier: A)(MW: Handling) Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size.",
+            "hash": 3685829362,
+            "name": "Best Fimbulwinter Stitch (PvE) Arc build auto-reload",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1511100135
+                ],
+                [
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier: A)(MW: Handling) neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size.",
+            "hash": 3685829362,
+            "name": "Best Fimbulwinter Stitch (PvE) neutral auto-reload",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1115162408
+                ],
+                [
+                    3218042543
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvP)(Tier: A)(MW: Range). Rangefinder for Range and Accuracy. Precision Instrument for stacking precision hit buff up to 25% until you miss a hit or reload. Smallbore and Ricochet Rounds for Range and Stability.",
+            "hash": 3685829362,
+            "name": "Best Fimbulwinter Stitch (PvP)",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Good (PvE)(Tier: A)(MW: Handling) Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty.. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Barrel/mag options prioritizing low Handling and Magazine size.",
+            "hash": 3685829362,
+            "name": "Good Fimbulwinter Stitch (PvE) Arc build auto-reload",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    2420895100,
+                    1431678320,
+                    679225683,
+                    3230963543
+                ],
+                [
+                    1511100135
+                ],
+                [
+                    3966416502,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good (PvE)(Tier: A)(MW: Handling) Neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Barrel/mag options prioritizing low Handling and Magazine size.",
+            "hash": 3685829362,
+            "name": "Good Fimbulwinter Stitch (PvE) Neutral auto-reload",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    2420895100,
+                    1431678320,
+                    679225683,
+                    3230963543
+                ],
+                [
+                    1115162408
+                ],
+                [
+                    3218042543
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good (PvP)(Tier: A)(MW: Range) Rangefinder for Range and Accuracy. Precision Instrument for stacking precision hit buff up to 25% until you miss a hit or reload. Alternatively Kill Clip for a guaranteed buff of 25 percent after a kill and reload. Barrel/mag prioritize Range and Stability.",
+            "hash": 3685829362,
+            "name": "Good Fimbulwinter Stitch (PvP)",
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    3250034553,
+                    1392496348,
+                    3661387068,
+                    1467527085
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646,
+                    679225683,
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    2846385770,
+                    2579169598
+                ],
+                [
+                    555281244,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier: A)(MW: Handling) Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Any barrel/mag until getting a better roll.",
+            "hash": 3685829362,
+            "name": "Basic Fimbulwinter Stitch (PvE) Arc build auto-reload",
+            "plugs": [
+                [
+                    1511100135
+                ],
+                [
+                    3966416502,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier: A)(MW: Handling) neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Any barrel/mag until getting a better roll.",
+            "hash": 3685829362,
+            "name": "Basic Fimbulwinter Stitch (PvE) neutral auto-reload",
+            "plugs": [
+                [
+                    1115162408
+                ],
+                [
+                    3218042543
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "(PvP)(Tier: A)(MW: Range) Basic. Rangefinder for Range and Accuracy. Precision Instrument for stacking precision hit buff up to 25% until you miss a hit or reload. Alternatively Kill Clip for a guaranteed buff of 25 percent after a kill and reload. Any barrel/mag until getting a better roll.",
+            "hash": 3685829362,
+            "name": "Basic Fimbulwinter Stitch (PvP)",
+            "plugs": [
+                [
+                    2846385770,
+                    2579169598
+                ],
+                [
+                    555281244,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier: A)(MW: Handling) Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size.",
+            "hash": 2645567209,
+            "name": "Best Fimbulwinter Stitch (PvE) Arc build auto-reload",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1511100135
+                ],
+                [
+                    3966416502
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier: A)(MW: Handling) neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size.",
+            "hash": 2645567209,
+            "name": "Best Fimbulwinter Stitch (PvE) neutral auto-reload",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1115162408
+                ],
+                [
+                    3218042543
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvP)(Tier: A)(MW: Range) Rangefinder for Range and Accuracy. Precision Instrument for stacking precision hit buff up to 25% until you miss a hit or reload. Smallbore and Ricochet Rounds for Range and Stability.",
+            "hash": 2645567209,
+            "name": "Best Fimbulwinter Stitch (PvP)",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Good (PvE)(Tier: A)(MW: Handling) Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty.. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Barrel/mag options prioritizing low Handling and Magazine size.",
+            "hash": 2645567209,
+            "name": "Good Fimbulwinter Stitch (PvE) Arc build auto-reload",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    2420895100,
+                    1431678320,
+                    679225683,
+                    3230963543
+                ],
+                [
+                    1511100135
+                ],
+                [
+                    3966416502,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good (PvE)(Tier: A)(MW: Handling) Neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Barrel/mag options prioritizing low Handling and Magazine size.",
+            "hash": 2645567209,
+            "name": "Good imbulwinter Stitch (PvE) Neutral auto-reload",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    2420895100,
+                    1431678320,
+                    679225683,
+                    3230963543
+                ],
+                [
+                    1115162408
+                ],
+                [
+                    3218042543
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good (PvP)(Tier: A)(MW: Range). Rangefinder for Range and Accuracy. Precision Instrument for stacking precision hit buff up to 25% until you miss a hit or reload. Alternatively Kill Clip for a guaranteed buff of 25 percent after a kill and reload. Barrel/mag prioritize Range and Stability.",
+            "hash": 2645567209,
+            "name": "Good Fimbulwinter Stitch (PvP)",
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448,
+                    3250034553,
+                    1392496348,
+                    3661387068,
+                    1467527085
+                ],
+                [
+                    1885400500,
+                    1561002382,
+                    1968497646,
+                    679225683,
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    2846385770,
+                    2579169598
+                ],
+                [
+                    555281244,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier: A)(MW: Handling) Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Any barrel/mag until getting a better roll.",
+            "hash": 2645567209,
+            "name": "Basic Fimbulwinter Stitch (PvE) Arc build auto-reload",
+            "plugs": [
+                [
+                    1511100135
+                ],
+                [
+                    3966416502,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier: A)(MW: Handling) neutral auto-reload via Bolt Charge (each kill reloads ammo). Good energy slot choice for non-Arc builds. Trickle Charge partially auto-reloads on receiving or discharging a Bolt Charge, which Rolling Storm grants on kills (bonus while Amplified). Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Any barrel/mag until getting a better roll.",
+            "hash": 2645567209,
+            "name": "Basic Fimbulwinter Stitch (PvE) neutral auto-reload",
+            "plugs": [
+                [
+                    1115162408
+                ],
+                [
+                    3218042543
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvP)(Tier: A)(MW: Range). Rangefinder for Range and Accuracy. Precision Instrument for stacking precision hit buff up to 25% until you miss a hit or reload. Alternatively Kill Clip for a guaranteed buff of 25 percent after a kill and reload. Any barrel/mag until getting a better roll.",
+            "hash": 2645567209,
+            "name": "Basic Fimbulwinter Stitch (PvP)",
+            "plugs": [
+                [
+                    2846385770,
+                    2579169598
+                ],
+                [
+                    555281244,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff.",
+            "hash": 766122634,
+            "name": "Best Good Mistral Lift (PvE) high DPS swap-weapon rotation",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3987942396
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage.",
+            "hash": 766122634,
+            "name": "Best Mistral Lift (PvE) precision",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3987942396,
+                    1523832109
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time.",
+            "hash": 766122634,
+            "name": "Basic Good Mistral Lift (PvE) high DPS swap-weapon rotation",
+            "plugs": [
+                [
+                    3987942396
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },        
+        {
+            "description": "Basic (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time.",
+            "hash": 766122634,
+            "name": "Basic Mistral Lift (PvE) sustained precision",
+            "plugs": [
+                [
+                    3987942396,
+                    1523832109
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff.",
+            "hash": 270610849,
+            "name": "Best Good Mistral Lift (PvE) high DPS swap-weapon rotation",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3987942396
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage.",
+            "hash": 270610849,
+            "name": "Best Mistral Lift (PvE) precision",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    689005463
+                ],
+                [
+                    3987942396,
+                    1523832109
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Basic (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time.",
+            "hash": 270610849,
+            "name": "Basic Good Mistral Lift (PvE) high DPS swap-weapon rotation",
+            "plugs": [
+                [
+                    3987942396
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },        
+        {
+            "description": "Basic (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time.",
+            "hash": 270610849,
+            "name": "Basic Mistral Lift (PvE) sustained precision",
+            "plugs": [
+                [
+                    3987942396,
+                    1523832109
+                ],
+                [
+                    555281244
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        }
+    ]
+}

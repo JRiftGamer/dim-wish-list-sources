@@ -1,6 +1,50 @@
 title:Blueberries.gg Y8S28 Dawning weapon picks PVE-PVP
 description:Blueberries.gg's Y8 (2025/2026) S28 Dawning PVE & PVP collected/tiered weapon picks from https://www.blueberries.gg/leveling/dawning-event and https://www.blueberries.gg/weapons/destiny-2-weapons-list
 
+// Mistral Lift - Best Good Mistral Lift (PvE) high DPS swap-weapon rotation (god-pve,pve)
+//notes: Best (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff. tags:god-pve,pve
+dimwishlist:item=270610849&perks=1840239774,689005463,3987942396,3078487919
+
+
+// Mistral Lift - Best Mistral Lift (PvE) precision (pve)
+//notes: Best (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage. tags:pve
+dimwishlist:item=270610849&perks=1840239774,689005463,3987942396,555281244
+dimwishlist:item=270610849&perks=1840239774,689005463,1523832109,555281244
+
+
+// Mistral Lift - Basic Good Mistral Lift (PvE) high DPS swap-weapon rotation (pve)
+//notes: Basic (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time. tags:pve
+dimwishlist:item=270610849&perks=3987942396,3078487919
+
+
+// Mistral Lift - Basic Mistral Lift (PvE) sustained precision (pve)
+//notes: Basic (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time. tags:pve
+dimwishlist:item=270610849&perks=3987942396,555281244
+dimwishlist:item=270610849&perks=1523832109,555281244
+
+
+// Mistral Lift - Best Good Mistral Lift (PvE) high DPS swap-weapon rotation (god-pve,pve)
+//notes: Best (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff. tags:god-pve,pve
+dimwishlist:item=766122634&perks=1840239774,689005463,3987942396,3078487919
+
+
+// Mistral Lift - Best Mistral Lift (PvE) precision (pve)
+//notes: Best (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage. tags:pve
+dimwishlist:item=766122634&perks=1840239774,689005463,3987942396,555281244
+dimwishlist:item=766122634&perks=1840239774,689005463,1523832109,555281244
+
+
+// Mistral Lift - Basic Good Mistral Lift (PvE) high DPS swap-weapon rotation (pve)
+//notes: Basic (PvE)(Tier:S)(MW:Charge Time) Swap-weapon rotation, attacking from each weapon in turn for auto reload and damage buff. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time. tags:pve
+dimwishlist:item=766122634&perks=3987942396,3078487919
+
+
+// Mistral Lift - Basic Mistral Lift (PvE) sustained precision (pve)
+//notes: Basic (PvE)(Tier:S)(MW:Charge Time) Auto reload via Envious Arsenal (make at least one hit with both other weapons to reload) or Reconstruction (slowly reloads over time, up to 2x overflow). Sustained precision hits buff damage. Any barrel/mag until you get a better role; prioritize Handling, Stability, Charge Time. tags:pve
+dimwishlist:item=766122634&perks=3987942396,555281244
+dimwishlist:item=766122634&perks=1523832109,555281244
+
+
 // Fimbulwinter Stitch - Best Fimbulwinter Stitch (PvE) Arc build auto-reload (god-pve,pve)
 //notes: Best (PvE)(Tier: A)(MW: Handling) Arc build auto-reload triggered by Amplify. Good energy slot choice for Arc builds, especially with s27 Aion armor's Speed Booster. Supercharged Magazine auto-reloads ammo while Amplified; triggering Aion armor's Speed Booster gives 6x auto-reload rate and overflow up to 50%. This feeds Jolting Feedback perfectly as sustained damage applies Jolt. Doing this while Amplified applies Jolt in fewer shots, whose chain lightning effect will damage the main target and chain to surrounding enemies. Great for all tiers of PvE difficulty. Despite low base Reload Speed, prioritize Handling because Sidearms are naturally good at quick swaps of fast damage bursts, and these auto-reload perks mitigate low Reload Speed. Fluted Barrel and Appended Mag address low Handling and Magazine size. tags:god-pve,pve
 dimwishlist:item=2645567209&perks=1840239774,1087426260,1511100135,3966416502
