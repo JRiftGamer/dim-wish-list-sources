@@ -1,6 +1,105 @@
 title:Blueberries.gg Y8S28 Renegades weapon picks PVE-PVP
 description:Y8 (2025) S28 (Renegades) Dawning collected/tiered weapon picks from https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons and https://www.blueberries.gg/weapons/destiny-2-weapons-list
 
+// Refurbished A499 - Refurbished A499 PvE Best DPS for swap-weapon rotation (god-pve,pve)
+//notes: (PvE)(Tier:S)(MW:Handling) Best roll for swap-DPS rotation vs sustaining single-weapon DPS. Prioritize Handling for faster swapping. Weapon has great damage, but perk pool is meh. Perk 1: Snapshot Sights for tighter shot cone via Stability. Perk 2: Aggregate Charge for more damage per elemental debuff on the target, so your weapon rotation should include weapons that debuff. For example: first use energy-slot weapon to apply elemental-based debuff (and ideally clearing nearby adds with a few explosions from Sunshot [Scorch] or Graviton Lance [Volatile], etc.), swap to kinetic-slot weapon to apply Slow (e.g. Riptide with Chill Clip), finally swap to A499 for precision damage. Alternatively use Auto-Loading Holster with similar swap-weapon rotation so you never manually reload A499. Alternatively use Envious Assassin, but for auto-reload you must make a kill before swapping back to A499. tags:god-pve,pve
+dimwishlist:item=593808239&perks=839105230,3230963543,957782887,3764420437
+dimwishlist:item=593808239&perks=839105230,3230963543,957782887,3300816228
+dimwishlist:item=593808239&perks=839105230,3230963543,957782887,968510818
+
+
+// Refurbished A499 - Refurbished A499 PvE Best for non-swap (god-pve,pve)
+//notes: (PvE)(Tier:S)(MW:Reload) Best roll if swap-DPS rotation is too much like work or if you prefer taking your time to make each shot really count. Prioritize Reload Speed instead of Handling since you'll be reloading instead of swapping. Smallbore for better accuracy since you don't need Handling. Flared Magwell for Reload Speed. tags:god-pve,pve
+dimwishlist:item=593808239&perks=1482024992,3230963543,957782887,2551157718
+
+
+// Refurbished A499 - Refurbished A499 PvP Best (god-pvp,pvp)
+//notes: (PvP)(Tier:B)(MW:Handling) Best. Prioritize Handling and Stability for quality of life since Range is already fine (A499 precision one-shots at most effective ranges). Snapshot Sights feels nice and adds Stability to narrow the shot cone. Lone Wolf is decent if you’re less confident in landing your shots.
+
+In the second column, there isn’t much, so Mulligan is the only really relevant pick, as it can sometimes refund your ammo if you miss. This is relevant as the sniper requires Heavy ammo, and so it can be helpful sometimes. tags:god-pvp,pvp
+dimwishlist:item=593808239&perks=1840239774,3177308360,957782887,3513791699
+dimwishlist:item=593808239&perks=1840239774,3177308360,2579169598,3513791699
+
+
+// Refurbished A499 - Refurbished A499 PvE Good DPS for swap-weapon rotation (god-pve,pve)
+//notes: (PvE)(Tier:S)(MW:Handling) Good roll for swap-DPS rotation vs sustaining single-weapon DPS. Prioritize Handling for faster swapping. Weapon has great damage, but perk pool is meh. Perk 1: Snapshot Sights for tighter shot cone via Stability. Perk 2: Aggregate Charge for more damage per elemental debuff on the target, so your weapon rotation should include weapons that debuff. For example: first use energy-slot weapon to apply elemental-based debuff (and ideally clearing nearby adds with a few explosions from Sunshot [Scorch] or Graviton Lance [Volatile], etc.), swap to kinetic-slot weapon to apply Slow (e.g. Riptide with Chill Clip), finally swap to A499 for precision damage. Alternatively use Auto-Loading Holster with similar swap-weapon rotation so you never manually reload A499. Alternatively use Envious Assassin, but for auto-reload you must make a kill before swapping back to A499. tags:god-pve,pve
+dimwishlist:item=593808239&perks=839105230,3230963543,957782887,3764420437
+dimwishlist:item=593808239&perks=839105230,3230963543,957782887,3300816228
+dimwishlist:item=593808239&perks=839105230,3230963543,957782887,968510818
+dimwishlist:item=593808239&perks=839105230,679225683,957782887,3764420437
+dimwishlist:item=593808239&perks=839105230,679225683,957782887,3300816228
+dimwishlist:item=593808239&perks=839105230,679225683,957782887,968510818
+dimwishlist:item=593808239&perks=1840239774,3230963543,957782887,3764420437
+dimwishlist:item=593808239&perks=1840239774,3230963543,957782887,3300816228
+dimwishlist:item=593808239&perks=1840239774,3230963543,957782887,968510818
+dimwishlist:item=593808239&perks=1840239774,679225683,957782887,3764420437
+dimwishlist:item=593808239&perks=1840239774,679225683,957782887,3300816228
+dimwishlist:item=593808239&perks=1840239774,679225683,957782887,968510818
+dimwishlist:item=593808239&perks=4090651448,3230963543,957782887,3764420437
+dimwishlist:item=593808239&perks=4090651448,3230963543,957782887,3300816228
+dimwishlist:item=593808239&perks=4090651448,3230963543,957782887,968510818
+dimwishlist:item=593808239&perks=4090651448,679225683,957782887,3764420437
+dimwishlist:item=593808239&perks=4090651448,679225683,957782887,3300816228
+dimwishlist:item=593808239&perks=4090651448,679225683,957782887,968510818
+
+
+// Refurbished A499 - Refurbished A499 PvE Best for non-swap (god-pve,pve)
+//notes: (PvE)(Tier:S)(MW:Reload) Best roll if swap-DPS rotation is too much like work or if you prefer taking your time to make each shot really count. Prioritize Reload Speed instead of Handling since you'll be reloading instead of swapping. Smallbore for better accuracy since you don't need Handling. Flared Magwell for Reload Speed. tags:god-pve,pve
+dimwishlist:item=593808239&perks=1482024992,3230963543,957782887,2551157718
+dimwishlist:item=593808239&perks=1482024992,3230963543,957782887,3513791699
+dimwishlist:item=593808239&perks=1482024992,679225683,957782887,2551157718
+dimwishlist:item=593808239&perks=1482024992,679225683,957782887,3513791699
+dimwishlist:item=593808239&perks=4090651448,3230963543,957782887,2551157718
+dimwishlist:item=593808239&perks=4090651448,3230963543,957782887,3513791699
+dimwishlist:item=593808239&perks=4090651448,679225683,957782887,2551157718
+dimwishlist:item=593808239&perks=4090651448,679225683,957782887,3513791699
+dimwishlist:item=593808239&perks=839105230,3230963543,957782887,2551157718
+dimwishlist:item=593808239&perks=839105230,3230963543,957782887,3513791699
+dimwishlist:item=593808239&perks=839105230,679225683,957782887,2551157718
+dimwishlist:item=593808239&perks=839105230,679225683,957782887,3513791699
+dimwishlist:item=593808239&perks=1840239774,3230963543,957782887,2551157718
+dimwishlist:item=593808239&perks=1840239774,3230963543,957782887,3513791699
+dimwishlist:item=593808239&perks=1840239774,679225683,957782887,2551157718
+dimwishlist:item=593808239&perks=1840239774,679225683,957782887,3513791699
+
+
+// Refurbished A499 - Refurbished A499 PvP Good (god-pvp,pvp)
+//notes: (PvP)(Tier:B)(MW:Handling) Good. Prioritize Handling and Stability for quality of life since Range is already fine (A499 precision one-shots at most effective ranges). Snapshot Sights feels nice and adds Stability to narrow the shot cone. Lone Wolf is decent if you’re less confident in landing your shots.
+
+In the second column, there isn’t much, so Mulligan is the only really relevant pick, as it can sometimes refund your ammo if you miss. This is relevant as the sniper requires Heavy ammo, and so it can be helpful sometimes. tags:god-pvp,pvp
+dimwishlist:item=593808239&perks=1840239774,3177308360,957782887,3513791699
+dimwishlist:item=593808239&perks=1840239774,3177308360,2579169598,3513791699
+dimwishlist:item=593808239&perks=839105230,3177308360,957782887,3513791699
+dimwishlist:item=593808239&perks=839105230,3177308360,2579169598,3513791699
+dimwishlist:item=593808239&perks=4090651448,3177308360,957782887,3513791699
+dimwishlist:item=593808239&perks=4090651448,3177308360,2579169598,3513791699
+dimwishlist:item=593808239&perks=1392496348,3177308360,957782887,3513791699
+dimwishlist:item=593808239&perks=1392496348,3177308360,2579169598,3513791699
+dimwishlist:item=593808239&perks=1482024992,3177308360,957782887,3513791699
+dimwishlist:item=593808239&perks=1482024992,3177308360,2579169598,3513791699
+
+
+// Refurbished A499 - Refurbished A499 PvE Basic DPS for swap-weapon rotation (pve)
+//notes: (PvE)(Tier:S)(MW:Handling) Basic roll for swap-DPS rotation vs sustaining single-weapon DPS. Prioritize Handling for faster swapping. Weapon has great damage, but perk pool is meh. Perk 1: Snapshot Sights for tighter shot cone via Stability. Perk 2: Aggregate Charge for more damage per elemental debuff on the target, so your weapon rotation should include weapons that debuff. For example: first use energy-slot weapon to apply elemental-based debuff (and ideally clearing nearby adds with a few explosions from Sunshot [Scorch] or Graviton Lance [Volatile], etc.), swap to kinetic-slot weapon to apply Slow (e.g. Riptide with Chill Clip), finally swap to A499 for precision damage. Alternatively use Auto-Loading Holster with similar swap-weapon rotation so you never manually reload A499. Alternatively use Envious Assassin, but for auto-reload you must make a kill before swapping back to A499. tags:pve
+dimwishlist:item=593808239&perks=957782887,3764420437
+dimwishlist:item=593808239&perks=957782887,3300816228
+dimwishlist:item=593808239&perks=957782887,968510818
+
+
+// Refurbished A499 - Refurbished A499 PvE Basic for non-swap (pve)
+//notes: (PvE)(Tier:S)(MW:Reload) Basic roll if swap-DPS rotation is too much like work or if you prefer taking your time to make each shot really count. Prioritize Reload Speed instead of Handling since you'll be reloading instead of swapping. Smallbore for better accuracy since you don't need Handling. Flared Magwell for Reload Speed. tags:pve
+dimwishlist:item=593808239&perks=957782887,2551157718
+dimwishlist:item=593808239&perks=957782887,3513791699
+
+
+// Refurbished A499 - Refurbished A499 PvP Basic  (pvp)
+//notes: (PvP)(Tier:B)(MW:Handling) Basic . Prioritize Handling and Stability for quality of life since Range is already fine (A499 precision one-shots at most effective ranges). Snapshot Sights feels nice and adds Stability to narrow the shot cone. Lone Wolf is decent if you’re less confident in landing your shots.
+
+In the second column, there isn’t much, so Mulligan is the only really relevant pick, as it can sometimes refund your ammo if you miss. This is relevant as the sniper requires Heavy ammo, and so it can be helpful sometimes. tags:pvp
+dimwishlist:item=593808239&perks=957782887,3513791699
+dimwishlist:item=593808239&perks=2579169598,3513791699
+
+
 // All or Nothing - All or Nothing (PvE)(Such Best) (god-pve,pve)
 //notes: (PvE)(Tier: A)(MW: Handling) Such Best. Unique version which can roll origin trait Accelerated Assault. Best for large groups of enemies. Best perks: Firefly (precision kills trigger explosion and nearly maxes out Reload Speed) with Thermal Atomization (keeping heat>=50% buffs damage and kills trigger high-damage explosion). Best barrel/mag: Fluted Barrel (boost low base Handling) and Light Heatsink (more Handling plus Reload Speed). Best origin trait: Accelerated Assault (sustained damage slightly improves damage and reduces heat generation). tags:god-pve,pve
 dimwishlist:item=2023002233&perks=1840239774,1946186791,3824105627,1909124648,3713579091
